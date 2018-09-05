@@ -33,7 +33,7 @@ side3= Calc.nextDouble();
 
 double area= FunctionA.areaOfTriangle(side1,side2,side3);
 
-System.out.println("Area of Triangle"+area);		
+System.out.println("Area of Triangle "+area);		
 	
     }
 }
