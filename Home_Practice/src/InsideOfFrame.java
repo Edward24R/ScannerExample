@@ -34,14 +34,13 @@
  g2.draw(line);
 
  // Draw the greeting
+ 
+for(int counter=1; counter <= 20; counter++) {
  g2.setColor(Color.PINK);
  g2.drawString("Watch Real Anime Danny!", 700, 250);
- g2.setColor(Color.PINK);
- g2.drawString("Watch Real Anime Danny!", 700, 350);
- g2.setColor(Color.PINK);
- g2.drawString("Watch Real Anime Danny!", 700, 450);
  
- 
- 
+  
+ }
+
     }
  }
