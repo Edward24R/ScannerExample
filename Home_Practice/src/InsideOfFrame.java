@@ -15,7 +15,7 @@
  // Recover Graphics2D
  Graphics2D g2 = (Graphics2D) g;
 
- // Draw the Circle
+ // Draw the Rectangle
  Rectangle box = new Rectangle(500, 200, 400, 300); // (x, y, Width, height)
  g2.draw(box);
 
